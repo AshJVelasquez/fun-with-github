@@ -1,0 +1,32 @@
+/*
+	Comment
+*/
+
+.avatar{
+	width: 50px;
+	height:auto;
+}
+
+
+/*Social Media Section*/
+.social {
+	float: left;
+	width:50px;
+	height:auto;
+	margin:8px;
+}
+
+.allSocial {
+	box-sizing: content-box;
+	flex-wrap:wrap;
+	display:flex;
+}
+.icon{
+	width:100%;
+	height:auto;
+}
+
+.linkedin {
+	width: 115%;
+	height: auto;
+}
