@@ -8,3 +8,4 @@
 </ul>
 <a href="https://codepen.io/ashjvelasquez/full/oNbZKav">See my code here!</a>
 <h3>Front Page View:</h3>
+<img src="https://raw.githubusercontent.com/AshJVelasquez/fun-with-github/master/FrontPage.png"/>
