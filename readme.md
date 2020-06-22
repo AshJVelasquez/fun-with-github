@@ -6,6 +6,6 @@
 <li>jQuery: This was my first time using it in my code.</li>
 <li>Ajax: Another JS first! I seen my MSTA instructor use it, so it was familiar. It's different seeing it work from MY use though!</li>
 </ul>
-<a href="https://codepen.io/ashjvelasquez/full/oNbZKav">See my code here!</a>
+<b><a href="https://codepen.io/ashjvelasquez/full/oNbZKav">See my code here!</a></b>
 <h3>Front Page View:</h3>
 <img src="https://raw.githubusercontent.com/AshJVelasquez/fun-with-github/master/FrontPage.png"/>
